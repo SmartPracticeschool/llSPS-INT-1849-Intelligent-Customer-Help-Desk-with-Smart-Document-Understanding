@@ -794,7 +794,7 @@
   },
   "webhooks": [
     {
-      "url": "https://eu-gb.functions.cloud.ibm.com/api/v1/web/ankit404sahu%40gmail.com_dev/default/Intelligent%20Customer%20Help%20Desk%20with%20Smart%20Document%20Understanding.json",
+      "url": "https://eu-gb.functions.cloud.ibm.com/api/v1/web/jengeorgekoshy333%40gmail.com_dev/default/Intelligent%20Customer%20Help%20Desk%20with%20Smart%20Document%20Understanding.json",
       "name": "main_webhook",
       "headers": [
         {
@@ -1183,7 +1183,7 @@
           {
             "values": [
               {
-                "text": "To see our vegetarian menu, go to the <a href=\"https://www.ankit4b.pythonanywhere.com\" target=\"blank\">vegetarian menu</a> page on our website."
+                "text": "To see our vegetarian menu, go to the <a href=\"https://www.jen4b.pythonanywhere.com\" target=\"blank\">vegetarian menu</a> page on our website."
               }
             ],
             "response_type": "text",
