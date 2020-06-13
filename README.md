@@ -19,3 +19,5 @@ To take it a step further, the project shall use the Smart Document Understandin
 Chatbot link- https://node-red-767.eu-gb.mybluemix.net/ui/#!/0?socketid=OjHiUU7bKlDO2385AAAA
 
 Github link - https://github.com/SmartPracticeschool/llSPS-INT-1849-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
+
+Youtube video link- https://youtu.be/67dtmSQ6uqA
