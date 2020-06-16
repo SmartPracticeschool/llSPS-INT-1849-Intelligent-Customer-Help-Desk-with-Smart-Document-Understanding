@@ -20,4 +20,4 @@ Chatbot link- https://node-red-767.eu-gb.mybluemix.net/ui/#!/0?socketid=OjHiUU7b
 
 Github link - https://github.com/SmartPracticeschool/llSPS-INT-1849-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
 
-Youtube video link- https://youtu.be/67dtmSQ6uqA
+Youtube video link- https://youtu.be/NsfSB3-PUo4
